@@ -1,0 +1,211 @@
+{
+  "main": {
+    "name":"Nicklas Dupont",
+    "occupation":"Computer Science student",
+    "description":"I am currently on my forth semester, where i will pick up Security, Fullstack JavaScript and Python.",
+    "image":"profile.jpg",
+    "bio":"If I was to describe myself in one word, it would be reliable. I always try to optimize my situation, and I have multiple ways to achivie the goal i have set, so i dont get stuck at any point. I very much like to be social and establish new relations. I enjoy playing sports of any kind, though football is #1.",
+    "contactmessage":" I am currently looking for a programming related job of any kind, so dont hesitate to contact me through the contact form at the bottom of the page. (This feature is under maintenance, so please just contact me through the mail provided on the page)",
+    "email": "DupontWorks@gmail.com",
+    "address":{
+      "city":"Copenhagen",
+      "state":"Copenhagen",
+      "zip": "2300"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/nicklas.dupont",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/nicklas-dupont-033803176/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/thedanishwonder/?hl=da",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/TheDanishWonder",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "semestermessage":"This the ECTS progress of each semester.",
+    "topicmessage":"These are the topics and subjects we have covered throughout the semesters.",
+    "education":[
+      {
+        "school":"CPH Business",
+        "degree":"Computer Science",
+        "graduated":"August 2018 - Present",
+        "description":"The purpose of the Academy Profession Degree Programme in Computer Science is to qualify the graduate to independently analyse, plan and carry out solutions for developing, refining and the integration of IT systems in private and public companies in national as well as an international settings."
+      },
+      {
+        "school":"Tårnby Gymnasium",
+        "degree":"HF",
+        "graduated":"August 2013 - June 2015",
+        "description":"The Danish Gymnasium offers a 3-year (STX) and a 2-year (HF) general academically-oriented upper secondary programme which builds on the 9th-10th form of the Folkeskole and leads to the upper secondary school exit examination (the studentereksamen). This qualifies a student for admission to higher education Preparatory, subject to the special entrance regulations applying to the individual higher education programmes."
+      }
+    ],
+    "work":[
+      {
+        "company":"Slagterfagets Fællesudvalg",
+        "title":"Web-master",
+        "years":"February 2019 - Present",
+        "description":"Build and maintain the website."
+      },
+      {
+        "company":"Xellia Pharmacuticals",
+        "title":"Student assistent",
+        "years":"March 2019 - Present",
+        "description":"Testing client connections and verifying correct database inputs in EU/US Database."
+      }
+    ],
+    "Semesters":[
+      {
+        "name":"1. Semester | Completed",
+        "progress":"20%",
+        "ECTS":"30"
+      },
+      {
+        "name":"2. Semester | Completed",
+        "progress":"40%",
+        "ECTS":"60"
+      },
+      {
+        "name":"3. Semester | Completed",
+        "progress":"60%",
+        "ECTS":"80"
+      },
+      {
+        "name":"4. Semester | • In progress",
+        "progress":"80%",
+        "ECTS":"120"
+      },
+      {
+        "name":"5. Semester | Not qualified yet",
+        "progress":"100%",
+        "ECTS":"150"
+      }
+    ],
+    "Topics":[
+      {
+        "name":"Programming",
+        "semester":"Semester",
+        "first":"1",
+        "second":"2",
+        "third":"3",
+        "ECTS":"17",
+        "ECTS2":"11",
+        "ECTS3":"15",
+        "progress1":"11.33%",
+        "progress2":"18.66%",
+        "progress3":"28%",
+        "sub11":"• Fundamental programming",
+        "sub12":"• Object oriented principals",
+        "sub13":"• Program quality",
+        "sub21":"• Webprogramming and advanced object oriented programming with database",
+        "sub31":"• Distributed programming",
+        "sub32":"• software architecture",
+        "sub33":"• programming language"
+      },
+      {
+        "name":"System Development",
+        "semester":"Semester",
+        "first":"1",
+        "second":"2",
+        "third":"3",
+        "ECTS1":"7",
+        "ECTS2":"8",
+        "ECTS3":"7",
+        "progress1":"4.6%",
+        "progress2":"10%",
+        "progress3":"13.33%",
+        "sub11":"• Requirements, Analyzation, Design",
+        "sub12":"• Modelling in UML",
+        "sub13":"• IT tools",
+        "sub21":"• Method",
+        "sub22":"• Project development",
+        "sub23":"• Modelling",
+        "sub24":"• Quality",
+        "sub31":"• Project development",
+        "sub32":"• Modelling"
+      },
+      {
+        "name":"Techonolgy",
+        "semester":"Semester",
+        "first":"1",
+        "second":"2",
+        "third":"3",
+        "ECTS":"2",
+        "ECTS2":"3",
+        "ECTS3":"10",
+        "progress1":"1.33%",
+        "progress2":"3.33%",
+        "progress3":"10%",
+        "sub11":"• Machine architecture",
+        "sub21":"• Operating systems",
+        "sub22":"• Database",
+        "sub31":"• Distributed systems",
+        "sub32":"• Network"
+      },
+      {
+        "name":"Corporation",
+        "semester":"Semester",
+        "first":"1",
+        "second":"2",
+        "third":"N/A",
+        "ECTS":"4",
+        "ECTS2":"6",
+        "ECTS3":"N/A",
+        "progress1":"2.66%",
+        "progress2":"6.66%",
+        "progress3":"6.66%",
+        "sub11":"• Organisation and business understanding",
+        "sub12":"• IT- and business concepts",
+        "sub21":"• Business Analyzation",
+        "sub22":"• ERP systems",
+        "sub23":"• IT-acquisition"
+      },
+      {
+        "name":"Electives",
+        "semester":"Semester",
+        "first":"4",
+        "second":"4",
+        "third":"4",
+        "ECTS":"Python | 10",
+        "ECTS2":"Security | 10",
+        "ECTS3":"Fullstack JavaScript | 10",
+        "progress1":"6.66%",
+        "progress2":"6.66%",
+        "progress3":"6.66%",
+        "sub11":"• language features | OO, Exceptions, plotting | Numpy | Pandas | Multiprocessing, generators and Requests | Webscraping | Regular Expr. & Selenium | Database | web service | Graphs & PageRank Algorithm | Feature spaces | Neural Networks | Image Processing with OpenCV | Movement Detection" ,
+        "sub31":"• Basic JavaScript | es2016/17 | Next | node.js | ESLint | TypeScript | Babel | Webpack | Node | Express | NoSQL | MongoDB | geo-location | API | React Native",
+        "sub21":"• OWASP | GDPR | Penetration Testing | nMap | Network protocols and security | Different login strategies| SSH | SSL | Certificates | Social Engineering | Denial-of-service attack | SQL injection | Cross-site-Scripting | Hashes, Symmetric and asymmetric encryption, Digital Signatures and Certificates"
+      }
+    ]
+    
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Slagterfagets Fællesudvalg",
+        "category":"Wordpress website",
+        "image":"Slagterfaget.jpg",
+        "url":"https://web.slagterfaget.dk/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+
+    ]
+  }
+}
