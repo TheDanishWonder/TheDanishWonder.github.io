@@ -12,8 +12,8 @@
       "state":"Copenhagen",
       "zip": "2300"
     },
-    "website": "",
-    "resumedownload":"",
+    "website": "http://nicklasdupont.com",
+    "resumedownload":"./pdf/CV.pdf",
     "social":[
       {
         "name":"facebook",
