@@ -2,7 +2,7 @@
   "main": {
     "name":"Nicklas Dupont",
     "occupation":"Computer Science student",
-    "description":"I am currently on my fourth semester, where i will pick up Security, Fullstack JavaScript and Python.",
+    "description":"I am currently on my forth semester, where i will pick up Security, Fullstack JavaScript and Python.",
     "image":"profile.jpg",
     "bio":"If I was to describe myself in one word, it would be reliable. I always try to optimize my situation, and I have multiple ways to achivie the goal i have set, so i dont get stuck at any point. I very much like to be social and establish new relations. I enjoy playing sports of any kind, though football is #1.",
     "contactmessage":" I am currently looking for a programming related job of any kind, so dont hesitate to contact me through the contact form at the bottom of the page. (This feature is under maintenance, so please just contact me through the mail provided on the page)",
@@ -39,7 +39,7 @@
   },
   "resume":{
     "semestermessage":"This the ECTS progress of each semester.",
-    "topicmessage":"These are the topics and subjects we have covered throughout the semesters.",
+    "topicmessage":"These are topics and subjects we have covered throughout the semesters.",
     "education":[
       {
         "school":"CPH Business",
@@ -64,8 +64,20 @@
       {
         "company":"Xellia Pharmacuticals",
         "title":"Student assistent",
-        "years":"March 2019 - Present",
+        "years":"March 2019 - December 2020",
         "description":"Testing client connections and verifying correct database inputs in EU/US Database."
+      },
+      {
+        "company":"Incept Sustainability",
+        "title":"Internship - Software Development",
+        "years":"August 2020 - October 2020",
+        "description":"Building new functionality to platform, update visuals and add mobile responsiveness"
+      },
+      {
+        "company":"RiACT",
+        "title":"Internship - Software Development",
+        "years":"November 2020 - January 2020",
+        "description":"Building new functionality to end-user platform"
       }
     ],
     "Semesters":[
@@ -82,15 +94,15 @@
       {
         "name":"3. Semester | Completed",
         "progress":"60%",
-        "ECTS":"90"
+        "ECTS":"80"
       },
       {
-        "name":"4. Semester | • In progress",
+        "name":"4. Semester | Completed",
         "progress":"80%",
         "ECTS":"120"
       },
       {
-        "name":"5. Semester | Not qualified yet",
+        "name":"5. Semester | • In progress",
         "progress":"100%",
         "ECTS":"150"
       }
@@ -108,13 +120,13 @@
         "progress1":"11.33%",
         "progress2":"18.66%",
         "progress3":"28%",
-        "sub11":"• Fundamental programming",
-        "sub12":"• Object oriented principals",
-        "sub13":"• Program quality",
-        "sub21":"• Webprogramming and advanced object oriented programming with database",
-        "sub31":"• Distributed programming",
-        "sub32":"• software architecture",
-        "sub33":"• programming language"
+        "sub1":"• Fundamental programming",
+        "sub2":"• Object oriented principals",
+        "sub3":"• Program quality",
+        "sub4":"• Webprogramming and advanced object oriented programming with database",
+        "sub5":"• Distributed programming",
+        "sub6":"• software architecture",
+        "sub7":"• programming language"
       },
       {
         "name":"System Development",
@@ -128,15 +140,15 @@
         "progress1":"4.6%",
         "progress2":"10%",
         "progress3":"13.33%",
-        "sub11":"• Requirements, Analyzation, Design",
-        "sub12":"• Modelling in UML",
-        "sub13":"• IT tools",
-        "sub21":"• Method",
-        "sub22":"• Project development",
-        "sub23":"• Modelling",
-        "sub24":"• Quality",
-        "sub31":"• Project development",
-        "sub32":"• Modelling"
+        "sub1":"• Requirements, Analyzation, Design",
+        "sub2":"• Modelling in UML",
+        "sub3":"• IT tools",
+        "sub4":"• Method",
+        "sub5":"• Project development",
+        "sub6":"• Modelling",
+        "sub7":"• Quality",
+        "sub8":"• Project development",
+        "sub9":"• Modelling"
       },
       {
         "name":"Techonolgy",
@@ -150,11 +162,11 @@
         "progress1":"1.33%",
         "progress2":"3.33%",
         "progress3":"10%",
-        "sub11":"• Machine architecture",
-        "sub21":"• Operating systems",
-        "sub22":"• Database",
-        "sub31":"• Distributed systems",
-        "sub32":"• Network"
+        "sub1":"• Machine architecture",
+        "sub2":"• Operating systems",
+        "sub3":"• Database",
+        "sub4":"• Distributed systems",
+        "sub5":"• Network"
       },
       {
         "name":"Corporation",
@@ -168,11 +180,11 @@
         "progress1":"2.66%",
         "progress2":"6.66%",
         "progress3":"6.66%",
-        "sub11":"• Organisation and business understanding",
-        "sub12":"• IT- and business concepts",
-        "sub21":"• Business Analyzation",
-        "sub22":"• ERP systems",
-        "sub23":"• IT-acquisition"
+        "sub1":"• Organisation and business understanding",
+        "sub2":"• IT- and business concepts",
+        "sub3":"• Business Analyzation",
+        "sub4":"• ERP systems",
+        "sub5":"• IT-acquisition"
       },
       {
         "name":"Electives",
@@ -184,11 +196,11 @@
         "ECTS2":"Security | 10",
         "ECTS3":"Fullstack JavaScript | 10",
         "progress1":"6.66%",
-        "progress2":"6.66%",
-        "progress3":"6.66%",
-        "sub11":"• language features | OO, Exceptions, plotting | Numpy | Pandas | Multiprocessing, generators and Requests | Webscraping | Regular Expr. & Selenium | Database | web service | Graphs & PageRank Algorithm | Feature spaces | Neural Networks | Image Processing with OpenCV | Movement Detection" ,
-        "sub31":"• Basic JavaScript | es2016/17 | Next | node.js | ESLint | TypeScript | Babel | Webpack | Node | Express | NoSQL | MongoDB | geo-location | API | React Native",
-        "sub21":"• OWASP | GDPR | Penetration Testing | nMap | Network protocols and security | Different login strategies| SSH | SSL | Certificates | Social Engineering | Denial-of-service attack | SQL injection | Cross-site-Scripting | Hashes, Symmetric and asymmetric encryption, Digital Signatures and Certificates"
+        "progress2":"13.32%",
+        "progress3":"19.98%",
+        "sub1":"• language features | OO, Exceptions, plotting | Numpy | Pandas | Multiprocessing, generators and Requests | Webscraping | Regular Expr. & Selenium | Database | web service | Graphs & PageRank Algorithm | Feature spaces | Neural Networks | Image Processing with OpenCV | Movement Detection" ,
+        "sub2":"• Basic JavaScript | es2016/17 | Next | node.js | ESLint | TypeScript | Babel | Webpack | Node | Express | NoSQL | MongoDB | geo-location | API | React Native",
+        "sub3":"• OWASP | GDPR | Penetration Testing | nMap | Network protocols and security | Different login strategies| SSH | SSL | Certificates | Social Engineering | Denial-of-service attack | SQL injection | Cross-site-Scripting | Hashes, Symmetric and asymmetric encryption, Digital Signatures and Certificates"
       }
     ]
     
@@ -200,6 +212,12 @@
         "category":"Wordpress website",
         "image":"Slagterfaget.jpg",
         "url":"https://web.slagterfaget.dk/"
+      },
+      {
+        "title":"Smashed Drinking Game",
+        "category":"Mobile App",
+        "image":"Smashed.png",
+        "url":"https://smasheddrinkinggame.com/"
       }
     ]
   },

@@ -30,13 +30,12 @@ body { background: #0f0f0f; }
 
 header {
    position: relative;
-   height: 800px;
+   height: calc(var(--vh, 1vh) * 100);
    min-height: 500px;
-   width: 100%;
-   background: url("../images/sunsetroad.gif") no-repeat top center;
+   width: calc(var(--vw, 1vw) * 100);
+   background: url("../images/sunsetroad.gif") no-repeat center center;
    background-attachment: fixed;
    background-size: cover !important;
-	-webkit-background-size: cover !important;
    text-align: center;
    overflow: hidden;
 }
@@ -296,7 +295,7 @@ ul#nav li.current a { color: #F06000; }
 	text-align: left;
 }
 .bars .skills {
-  	margin-top: 36px;
+  	margin-top: 110px;
    list-style: none;
 }
 .bars .topics {
@@ -425,7 +424,9 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: url("../images/work.gif") no-repeat ;
+   background: url("../images/work.gif") no-repeat center center;
+   background-attachment: fixed;
+   background-size: cover !important;
    padding-top: 90px;
    padding-bottom: 60px;
    background-size: 100% !important;
@@ -446,6 +447,8 @@ ul#nav li.current a { color: #F06000; }
    background: #fff;
    overflow: hidden;
    position: relative;
+   border-radius: 20px;
+   border: 2px solid white;
 
    -webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
