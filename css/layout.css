@@ -338,7 +338,7 @@ ul#nav li.current a {
 }
 @media only screen and (max-width: 960px) {
   .skills {
-    margin-top: 300px !important;
+    margin-top: 330px !important;
   }
   .bars li em {
     font: 12px "opensans-bold", sans-serif !important;
