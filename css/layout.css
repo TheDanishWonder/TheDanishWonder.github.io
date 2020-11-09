@@ -338,11 +338,9 @@ ul#nav li.current a {
 }
 @media Only screen and (max-width: 960px) {
    .bars .skills {
-      margin-top: 180px;
+      margin-top: 230px;
     }
-    header {
-      background-size: 220% !important;
-    }
+
 }
 .bars .topics {
   margin-top: 36px;
