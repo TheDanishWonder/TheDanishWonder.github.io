@@ -336,6 +336,14 @@ ul#nav li.current a {
   margin-top: 110px;
   list-style: none;
 }
+@media Only screen and (max-width: 960px) {
+   .bars .skills {
+      margin-top: 180px;
+    }
+    header {
+      background-size: 220% !important;
+    }
+}
 .bars .topics {
   margin-top: 36px;
   list-style: none;
