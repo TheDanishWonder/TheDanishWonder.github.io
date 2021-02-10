@@ -291,7 +291,7 @@ ul#nav li.current a {
   padding-bottom: 6px;
 }
 #resume h3 {
-  font: 25px/30px "opensans-bold", sans-serif;
+  font: 25px/10px "opensans-bold", sans-serif;
 }
 
 #resume .header-col {
@@ -310,8 +310,8 @@ ul#nav li.current a {
 #resume .info {
   font: 16px/24px "librebaskerville-italic", serif;
   color: #6e7881;
-  margin-bottom: 18px;
-  margin-top: 9px;
+  margin-bottom: 9px;
+  margin-top: 2px;
 }
 #resume .info span {
   margin-right: 5px;
@@ -338,7 +338,7 @@ ul#nav li.current a {
 }
 @media only screen and (max-width: 960px) {
   .skills {
-    margin-top: 330px !important;
+    margin-top: 300px !important;
   }
   .bars li em {
     font: 12px "opensans-bold", sans-serif !important;

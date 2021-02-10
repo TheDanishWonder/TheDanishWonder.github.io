@@ -1,8 +1,8 @@
 {
   "main": {
     "name":"Nicklas Dupont",
-    "occupation":"Computer Science student",
-    "description":"I am currently on my fourth semester, where i will pick up Security, Fullstack JavaScript and Python.",
+    "occupation":"IT student",
+    "description":"I am currently taking my PBA in cyber security at KEA denmark",
     "image":"profile.jpg",
     "bio":"If I was to describe myself in one word, it would be reliable. I always try to optimize my situation, and I have multiple ways to achivie the goal i have set, so i dont get stuck at any point. I very much like to be social and establish new relations. I enjoy playing sports of any kind, though football is #1.",
     "contactmessage":" I am currently looking for a programming related job of any kind, so dont hesitate to contact me through the contact form at the bottom of the page. (This feature is under maintenance, so please just contact me through the mail provided on the page)",
@@ -39,12 +39,20 @@
   },
   "resume":{
     "semestermessage":"This the ECTS progress of each semester.",
-    "topicmessage":"These are topics and subjects we have covered throughout the semesters.",
+    "topicmessage":"These are topics and subjects I have acquired throughout my studies.",
     "education":[
       {
+        "school":"KEA",
+        "ECTSPoint":"90 ECTS",
+        "degree":"PBA in Cyber Security",
+        "graduated":"February 2021 - Present",
+        "description":"The goal of the education is that you can independently handle the work of analyzing, planning and assessing IT security aspects of operation, control and development in both private and public companies."
+      },
+      {
         "school":"CPH Business",
-        "degree":"Computer Science",
-        "graduated":"August 2018 - Present",
+        "ECTSPoint":"150 ECTS",
+        "degree":"AP in Computer Science",
+        "graduated":"August 2018 - January 2021",
         "description":"The purpose of the Academy Profession Degree Programme in Computer Science is to qualify the graduate to independently analyse, plan and carry out solutions for developing, refining and the integration of IT systems in private and public companies in national as well as an international settings."
       },
       {
@@ -59,26 +67,39 @@
         "company":"Slagterfagets Fællesudvalg",
         "title":"Web-master",
         "years":"February 2019 - Present",
-        "description":"Build and maintain the website."
+        "description":"Build website | Establish connection to external companies | Extract statistics for all educations under Slagterfagets Fællesudvalg"
       },
       {
         "company":"Xellia Pharmacuticals",
         "title":"Student assistent",
         "years":"March 2019 - December 2020",
-        "description":"Testing client connections and verifying correct database inputs in EU/US Database."
+        "description":"Build and test client connections | verify data in EU/US Database | build internal systems"
       },
       {
         "company":"Incept Sustainability",
         "title":"Internship - Software Development",
         "years":"August 2020 - October 2020",
-        "description":"Building new functionality to platform, update visuals and add mobile responsiveness"
+        "description":"Build backend platform | Optimize UI/UX "
       },
       {
         "company":"RiACT",
         "title":"Internship - Software Development",
         "years":"November 2020 - January 2020",
-        "description":"Building new functionality to end-user platform"
+        "description":"Build end-user platform"
+      },
+      {
+        "company":"KAB",
+        "title":"Freelance project",
+        "years":"November 2020 - Present",
+        "description":"Build mobile application | Build database "
+      },
+      {
+        "company":"IDupont",
+        "title":"CEO",
+        "years":"November 2020 - Present",
+        "description":"Web/Mobile solutions"
       }
+
     ],
     "Semesters":[
       {
@@ -102,7 +123,7 @@
         "ECTS":"120"
       },
       {
-        "name":"5. Semester | • In progress",
+        "name":"5. Semester | Completed",
         "progress":"100%",
         "ECTS":"150"
       }
@@ -117,7 +138,7 @@
         "ECTS":"17",
         "ECTS2":"11",
         "ECTS3":"15",
-        "progress1":"11.33%",
+        "progress1":"87%",
         "progress2":"18.66%",
         "progress3":"28%",
         "sub1":"• Fundamental programming",
@@ -137,7 +158,7 @@
         "ECTS":"7",
         "ECTS2":"8",
         "ECTS3":"7",
-        "progress1":"4.6%",
+        "progress1":"74%",
         "progress2":"10%",
         "progress3":"13.33%",
         "sub1":"• Requirements, Analyzation, Design",
@@ -159,7 +180,7 @@
         "ECTS":"2",
         "ECTS2":"3",
         "ECTS3":"10",
-        "progress1":"1.33%",
+        "progress1":"71%",
         "progress2":"3.33%",
         "progress3":"10%",
         "sub1":"• Machine architecture",
@@ -177,7 +198,7 @@
         "ECTS":"4",
         "ECTS2":"6",
         "ECTS3":"N/A",
-        "progress1":"2.66%",
+        "progress1":"60%",
         "progress2":"6.66%",
         "progress3":"6.66%",
         "sub1":"• Organisation and business understanding",
@@ -187,20 +208,67 @@
         "sub5":"• IT-acquisition"
       },
       {
-        "name":"Electives",
+        "name":"Fullstack Javascript",
         "semester":"Semester",
-        "first":"4",
-        "second":"4",
-        "third":"4",
-        "ECTS":"Python | 10",
-        "ECTS2":"Security | 10",
-        "ECTS3":"Fullstack JavaScript | 10",
-        "progress1":"6.66%",
-        "progress2":"13.32%",
-        "progress3":"19.98%",
-        "sub1":"• language features | OO, Exceptions, plotting | Numpy | Pandas | Multiprocessing, generators and Requests | Webscraping | Regular Expr. & Selenium | Database | web service | Graphs & PageRank Algorithm | Feature spaces | Neural Networks | Image Processing with OpenCV | Movement Detection" ,
-        "sub2":"• Basic JavaScript | es2016/17 | Next | node.js | ESLint | TypeScript | Babel | Webpack | Node | Express | NoSQL | MongoDB | geo-location | API | React Native",
-        "sub3":"• OWASP | GDPR | Penetration Testing | nMap | Network protocols and security | Different login strategies| SSH | SSL | Certificates | Social Engineering | Denial-of-service attack | SQL injection | Cross-site-Scripting | Hashes, Symmetric and asymmetric encryption, Digital Signatures and Certificates"
+        "first":"1",
+        "second":"2",
+        "third":"N/A",
+        "ECTS":"4",
+        "ECTS2":"6",
+        "ECTS3":"N/A",
+        "progress1":"90%",
+        "progress2":"6.66%",
+        "progress3":"6.66%",
+        "sub1":"• Node.js",
+        "sub2":"• TypeScript",
+        "sub3":"• NoSQL",
+        "sub4":"• API",
+        "sub5":"• React",
+        "sub6":"• React-Native",
+        "sub7":"• Expo"
+      },
+      {
+        "name":"Python",
+        "semester":"Semester",
+        "first":"1",
+        "second":"2",
+        "third":"N/A",
+        "ECTS":"4",
+        "ECTS2":"6",
+        "ECTS3":"N/A",
+        "progress1":"88%",
+        "progress2":"6.66%",
+        "progress3":"6.66%",
+        "sub1":"• Graphs & PageRank Algorithm" ,
+        "sub2":"• Multiprocessing",
+        "sub3":"• Webscraping",
+        "sub4":"• Database",
+        "sub5":"• Web Service",
+        "sub6":"• Neural Networks",
+        "sub7":"• Image Processing with OpenCV",
+        "sub8":"• Movement Detection"
+      },
+      {
+        "name":"Security",
+        "semester":"Semester",
+        "first":"1",
+        "second":"2",
+        "third":"N/A",
+        "ECTS":"4",
+        "ECTS2":"6",
+        "ECTS3":"N/A",
+        "progress1":"65%",
+        "progress2":"6.66%",
+        "progress3":"6.66%",
+        "sub1":"•  OWASP | GDPR | Penetration Testing | nMap | Network protocols and security | Different login strategies| SSH | SSL | Certificates | Social Engineering | Denial-of-service attack | SQL injection | Cross-site-Scripting | Hashes, Symmetric and asymmetric encryption, Digital Signatures and Certificates",
+        "sub2":"• GDPR",
+        "sub3":"• Penetration Testing",
+        "sub4":"• Network protocols and security",
+        "sub5":"• SSH | SSL | Certificates",
+        "sub6":"• Social Engineering ",
+        "sub7":"• Denial-of-service attack",
+        "sub8":"• SQL injection | Cross-site-Scripting",
+        "sub9":"• Hashes, Symmetric and asymmetric encryption, Digital Signatures and Certificates"
       }
     ]
     
@@ -210,7 +278,7 @@
       {
         "title":"Slagterfagets Fællesudvalg",
         "category":"Wordpress website",
-        "image":"Slagterfaget.jpg",
+        "image":"Slagterfaget.png",
         "url":"https://web.slagterfaget.dk/"
       },
       {
@@ -218,6 +286,18 @@
         "category":"Mobile App",
         "image":"Smashed.png",
         "url":"https://smasheddrinkinggame.com/"
+      },
+      {
+        "title":"Coming Soon - KAB Management",
+        "category":"Mobile App",
+        "image":"soon.jpg",
+        "url":""
+      },
+      {
+        "title":"Coming Soon - Roomer Rental",
+        "category":"Mobile App",
+        "image":"soon.jpg",
+        "url":""
       }
     ]
   },
