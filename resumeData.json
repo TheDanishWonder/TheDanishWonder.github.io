@@ -39,7 +39,7 @@
   },
   "resume":{
     "semestermessage":"This the ECTS progress of each semester.",
-    "topicmessage":"These are topics and subjects I have acquired throughout my studies.",
+    "topicmessage":"These are languages, frameworks, topics and subjects I have acquired throughout my studies and work.",
     "education":[
       {
         "school":"CPH Business",
@@ -130,6 +130,62 @@
     ],
     "Topics":[
       {
+        "name":"Languages",
+        "semester":"Semester",
+        "first":"1",
+        "second":"2",
+        "third":"3",
+        "ECTS":"17",
+        "ECTS2":"11",
+        "ECTS3":"15",
+        "progress1":"100%",
+        "progress2":"18.66%",
+        "progress3":"28%",
+        "sub1":"• Java",
+        "sub2":"• JavaScript",
+        "sub3":"• HTML",
+        "sub4":"• TypeScript",
+        "sub5":"• CSS",
+        "sub6":"• Kotlin",
+        "sub7":"• Swift"
+      },
+      {
+        "name":"frameworks",
+        "semester":"Semester",
+        "first":"1",
+        "second":"2",
+        "third":"3",
+        "ECTS":"17",
+        "ECTS2":"11",
+        "ECTS3":"15",
+        "progress1":"100%",
+        "progress2":"18.66%",
+        "progress3":"28%",
+        "sub1":"• React.js",
+        "sub2":"• JQuery",
+        "sub3":"• Flask",
+        "sub4":"• Angular",
+        "sub5":"• Django"
+      },
+      {
+        "name":"Database",
+        "semester":"Semester",
+        "first":"1",
+        "second":"2",
+        "third":"3",
+        "ECTS":"17",
+        "ECTS2":"11",
+        "ECTS3":"15",
+        "progress1":"100%",
+        "progress2":"18.66%",
+        "progress3":"28%",
+        "sub1":"• MySQL",
+        "sub2":"• PostgreSQL",
+        "sub3":"• SQLite",
+        "sub4":"• MongoDB",
+        "sub5":"• Google Firebase"
+      },
+      {
         "name":"Programming",
         "semester":"Semester",
         "first":"1",
@@ -147,7 +203,7 @@
         "sub4":"• Webprogramming and advanced object oriented programming with database",
         "sub5":"• Distributed programming",
         "sub6":"• software architecture",
-        "sub7":"• programming language"
+        "sub7":"• programming languages"
       },
       {
         "name":"System Development",
