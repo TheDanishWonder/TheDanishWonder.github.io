@@ -275,7 +275,7 @@
         "url":"https://web.slagterfaget.dk/"
       },
       {
-        "title":"Smashed Drinking Game",
+        "title":"Jungle Orange Mix",
         "category":"Mobile App",
         "image":"Smashed.png",
         "url":"https://smasheddrinkinggame.com/"
@@ -287,9 +287,15 @@
         "url":""
       },
       {
-        "title":"Coming Soon - Roomer Rental",
+        "title":"Coming Soon - WeBuddy",
         "category":"Mobile App",
-        "image":"soon.jpg",
+        "image":"WeBuddy.png",
+        "url":""
+      },
+      {
+        "title":"Coming Soon - Netflix Movie Picker",
+        "category":"Mobile App",
+        "image":"netflix.jpg",
         "url":""
       }
     ]
