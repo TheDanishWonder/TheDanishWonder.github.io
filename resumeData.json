@@ -186,6 +186,23 @@
         "sub5":"• Google Firebase"
       },
       {
+        "name":"Design",
+        "semester":"Semester",
+        "first":"1",
+        "second":"2",
+        "third":"3",
+        "ECTS":"17",
+        "ECTS2":"11",
+        "ECTS3":"15",
+        "progress1":"100%",
+        "progress2":"18.66%",
+        "progress3":"28%",
+        "sub1":"• Sketch",
+        "sub2":"• Adobe Illustrator",
+        "sub3":"• Proto.io",
+        "sub4":"• Adobe Experience Design (XD)"
+      },
+      {
         "name":"Programming",
         "semester":"Semester",
         "first":"1",
