@@ -1,11 +1,11 @@
 {
   "main": {
     "name":"Nicklas Dupont",
-    "occupation":"IT student",
-    "description":"I am currently taking my PBA in cyber security at KEA denmark",
+    "occupation":"Computer Science graduate",
+    "description":"I finished my AP in Computer Science, and now spend almost all of my free time on expanding my programming skills by taking courses and developing new mobile apps.",
     "image":"profile.jpg",
     "bio":"If I was to describe myself in one word, it would be reliable. I always try to optimize my situation, and I have multiple ways to achivie the goal i have set, so i dont get stuck at any point. I very much like to be social and establish new relations. I enjoy playing sports of any kind, though football is #1.",
-    "contactmessage":" I am currently looking for a programming related job of any kind, so dont hesitate to contact me through the contact form at the bottom of the page. (This feature is under maintenance, so please just contact me through the mail provided on the page)",
+    "contactmessage":" I am currently looking for a programming related job, so dont hesitate to contact me through the contact form at the bottom of the page. (This feature is under maintenance, so please just contact me through the mail provided on the page)",
     "email": "DupontWorks@gmail.com",
     "address":{
       "city":"Copenhagen",
@@ -41,13 +41,6 @@
     "semestermessage":"This the ECTS progress of each semester.",
     "topicmessage":"These are topics and subjects I have acquired throughout my studies.",
     "education":[
-      {
-        "school":"KEA",
-        "ECTSPoint":"90 ECTS",
-        "degree":"PBA in Cyber Security",
-        "graduated":"February 2021 - Present",
-        "description":"The goal of the education is that you can independently handle the work of analyzing, planning and assessing IT security aspects of operation, control and development in both private and public companies."
-      },
       {
         "school":"CPH Business",
         "ECTSPoint":"150 ECTS",
