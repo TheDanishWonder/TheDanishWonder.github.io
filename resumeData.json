@@ -60,38 +60,45 @@
         "company":"Slagterfaget",
         "title":"Web-master",
         "years":"February 2019 - Present",
-        "description":"Build website | Establish connection to external companies | Extract statistics for all educations under Slagterfagets Fællesudvalg"
+        "description":"Build website in wordpress | Establish connection to external companies | Extract statistics for all educations under Slagterfagets Fællesudvalg"
       },
       {
         "company":"Xellia Pharmacuticals",
         "title":"Student assistent",
         "years":"March 2019 - December 2020",
-        "description":"Build and test client connections | verify data in EU/US Database | build internal systems"
+        "description":"Build and test client connections with XML | verify data in EU/US Database | build internal systems"
       },
       {
         "company":"Incept Sustainability",
         "title":"Internship - Software Development",
         "years":"August 2020 - October 2020",
-        "description":"Build backend platform | Optimize UI/UX "
+        "description":"Build backend platform in React and CSS | Optimize UI/UX  "
       },
       {
         "company":"RiACT",
         "title":"Internship - Software Development",
         "years":"November 2020 - January 2020",
-        "description":"Build end-user platform"
+        "description":"Build end-user platform in React"
       },
       {
         "company":"KAB",
         "title":"Freelance project",
         "years":"November 2020 - Present",
-        "description":"Build mobile application | Build database "
+        "description":"Developed a management mobile app for an event location with React Native and Expo"
       },
       {
         "company":"IDupont",
         "title":"CEO",
         "years":"November 2020 - Present",
-        "description":"Web/Mobile solutions"
+        "description":"Developed a Quiz/Challenge mobile app with React Native and Expo | Movie picker mobile app in development"
+      },
+      {
+        "company":"WeBuddy",
+        "title":"CEO",
+        "years":"Februar 2020 - Present",
+        "description":"Classified project in development"
       }
+
 
     ],
     "Semesters":[
