@@ -301,6 +301,8 @@ ul#nav li.current a {
   padding-right: 10%;
 }
 
+.mobile,
+.experience,
 .education,
 .work {
   margin-bottom: 48px;

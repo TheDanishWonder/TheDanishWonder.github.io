@@ -1,388 +1,423 @@
 {
   "main": {
-    "name":"Nicklas Dupont",
-    "occupation":"Computer Science graduate",
-    "description":"I finished my AP in Computer Science, and now spend almost all of my free time on expanding my programming skills by taking courses and developing new mobile apps.",
-    "image":"profile.jpg",
-    "bio":"If I was to describe myself in one word, it would be reliable. I always try to optimize my situation, and I have multiple ways to achivie the goal i have set, so i dont get stuck at any point. I very much like to be social and establish new relations. I enjoy playing sports of any kind, though football is #1.",
-    "contactmessage":" I am currently looking for a programming related job, so dont hesitate to contact me through the contact form at the bottom of the page. (This feature is under maintenance, so please just contact me through the mail provided on the page)",
+    "name": "Nicklas Dupont",
+    "occupation": "Computer Science graduate",
+    "description": "I finished my AP in Computer Science, and now spend almost all of my free time on expanding my programming skills by taking courses and developing mobile apps.  I am currently looking for a programming related job, so dont hesitate to contact me on my email or through LinkedIn",
+    "image": "profile.jpg",
+    "bio": "If I was to describe myself in one word, it would be reliable. I always try to optimize my situation, and I have multiple ways to achivie the goal i have set, so i dont get stuck at any point. I very much like to be social and establish new relations. I enjoy playing sports of any kind, though football is #1.",
+    "contactmessage": " I am currently looking for a programming related job, so dont hesitate to contact me on my email or through LinkedIn",
     "email": "DupontWorks@gmail.com",
-    "address":{
-      "city":"Copenhagen",
-      "state":"Copenhagen",
+    "address": {
+      "city": "Copenhagen",
+      "state": "Denmark",
       "zip": "2300"
     },
     "website": "http://nicklasdupont.com",
-    "resumedownload":"./pdf/CV.pdf",
-    "social":[
+    "resumedownload": "./pdf/CV.pdf",
+    "social": [
       {
-        "name":"facebook",
-        "url":"https://www.facebook.com/nicklas.dupont",
-        "className":"fa fa-facebook"
+        "name": "facebook",
+        "url": "https://www.facebook.com/nicklas.dupont",
+        "className": "fa fa-facebook"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/nicklas-dupont-033803176/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/nicklas-dupont-033803176/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"https://www.instagram.com/thedanishwonder/?hl=da",
-        "className":"fa fa-instagram"
+        "name": "instagram",
+        "url": "https://www.instagram.com/thedanishwonder/?hl=da",
+        "className": "fa fa-instagram"
       },
       {
-        "name":"github",
-        "url":"https://github.com/TheDanishWonder",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/TheDanishWonder",
+        "className": "fa fa-github"
       }
     ]
   },
-  "resume":{
-    "semestermessage":"This the ECTS progress of each semester.",
-    "topicmessage":"These are languages, frameworks, topics and subjects I have acquired throughout my studies and work.",
-    "education":[
+  "resume": {
+    "semestermessage": "This the ECTS progress of each semester.",
+    "topicmessage": "These are languages, frameworks, topics and subjects I have acquired throughout my studies and work.",
+    "education": [
       {
-        "school":"CPH Business",
-        "ECTSPoint":"150 ECTS",
-        "degree":"AP in Computer Science",
-        "graduated":"August 2018 - January 2021",
-        "description":"The purpose of the Academy Profession Degree Programme in Computer Science is to qualify the graduate to independently analyse, plan and carry out solutions for developing, refining and the integration of IT systems in private and public companies in national as well as an international settings."
+        "school": "CPH Business",
+        "ECTSPoint": "150 ECTS",
+        "degree": "AP in Computer Science",
+        "graduated": "August 2018 - January 2021",
+        "description": "The purpose of the Academy Profession Degree Programme in Computer Science is to qualify the graduate to independently analyse, plan and carry out solutions for developing, refining and the integration of IT systems in private and public companies in national as well as an international settings."
       },
       {
-        "school":"Tårnby Gymnasium",
-        "degree":"HF",
-        "graduated":"August 2013 - June 2015",
-        "description":"The Danish Gymnasium offers a 3-year (STX) and a 2-year (HF) general academically-oriented upper secondary programme which builds on the 9th-10th form of the Folkeskole and leads to the upper secondary school exit examination (the studentereksamen). This qualifies a student for admission to higher education Preparatory, subject to the special entrance regulations applying to the individual higher education programmes."
+        "school": "Tårnby Gymnasium",
+        "degree": "HF",
+        "graduated": "August 2013 - June 2015",
+        "description": "The Danish Gymnasium offers a 3-year (STX) and a 2-year (HF) general academically-oriented upper secondary programme which builds on the 9th-10th form of the Folkeskole and leads to the upper secondary school exit examination (the studentereksamen). This qualifies a student for admission to higher education Preparatory, subject to the special entrance regulations applying to the individual higher education programmes."
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Slagterfaget",
-        "title":"Web-master",
-        "years":"February 2019 - Present",
-        "description":"Build website in wordpress | Establish connection to external companies | Extract statistics for all educations under Slagterfagets Fællesudvalg"
+        "company": "Slagterfaget",
+        "title": "Web-master",
+        "years": "February 2019 - Present",
+        "description": "Build website in wordpress | Establish connection to external companies | Extract statistics for all educations under Slagterfagets Fællesudvalg"
       },
       {
-        "company":"Xellia Pharmacuticals",
-        "title":"Student assistent",
-        "years":"March 2019 - December 2020",
-        "description":"Build and test client connections with XML | verify data in EU/US Database | build internal systems"
+        "company": "Xellia Pharmacuticals",
+        "title": "Student assistent",
+        "years": "March 2019 - December 2020",
+        "description": "Build and test client connections with XML | verify data in EU/US Database | build internal systems"
       },
       {
-        "company":"Incept Sustainability",
-        "title":"Internship - Software Development",
-        "years":"August 2020 - October 2020",
-        "description":"Build backend platform in React and CSS | Optimize UI/UX  "
+        "company": "Incept Sustainability",
+        "title": "Internship - Software Development",
+        "years": "August 2020 - October 2020",
+        "description": "Build backend platform in React and CSS | Optimize UI/UX  "
       },
       {
-        "company":"RiACT",
-        "title":"Internship - Software Development",
-        "years":"November 2020 - January 2020",
-        "description":"Build end-user platform in React"
+        "company": "RiACT",
+        "title": "Internship - Software Development",
+        "years": "November 2020 - January 2020",
+        "description": "Build end-user platform in React"
       },
       {
-        "company":"KAB",
-        "title":"Freelance project",
-        "years":"November 2020 - Present",
-        "description":"Developed a management mobile app for an event location with React Native and Expo"
+        "company": "KAB",
+        "title": "Freelance project",
+        "years": "November 2020 - Present",
+        "description": "Developed a management mobile app for an event location with React Native and Expo"
       },
       {
-        "company":"IDupont",
-        "title":"CEO",
-        "years":"November 2020 - Present",
-        "description":"Developed a Quiz/Challenge mobile app with React Native and Expo | Movie picker mobile app in development"
+        "company": "IDupont",
+        "title": "CEO",
+        "years": "November 2020 - Present",
+        "description": "Developed a Quiz/Challenge mobile app with React Native and Expo | Movie picker mobile app in development"
       },
       {
-        "company":"WeBuddy",
-        "title":"CEO",
-        "years":"Februar 2020 - Present",
-        "description":"Classified project in development"
+        "company": "WeBuddy",
+        "title": "CEO",
+        "years": "Februar 2020 - Present",
+        "description": "With the WeBuddy app, it as never been easier to find the perfect roommate. The only thing you need to do is swipe your new roommate today. "
       }
+    ],
+    "Mobile": [
+      {
+        "title": "WeBuddy",
+        "description": "WeBuddy is your new bestfriend, when it comes to finding a new roommate.",
+        "available" : "IOS and Android"
+      },
+      {
+        "title": "Smashed",
+        "description": "The last drinking app, you'll ever need.",
+        "available" : "Android"
+      },
+      {
+        "title": "Quizina",
+        "description": "Lightning quizzes, Challenges and nostalgic games like 'never have i ever', 'Would you rather' and 'truth or ...'",
+        "available" : "IOS"
+      }
+    ],
+    "ProfessionalExperience": [
+      {
+        "years": "1 year",
+        "language1": "React.js",
+        "language2": "  React Native",
+        "language3": "  JavaScript",
+        "language4": "  Java",
+        "language5": "  HTML5",
+        "language6": "  CSS",
+        "language7": "  Python",
+        "language8": "  NoSQL",
+        "language9": "  GraphQL",
+        "language10": "  Google Firebase"
+      }
+    ],
 
-
-    ],
-    "Semesters":[
+    "Semesters": [
       {
-        "name":"1. Semester | Completed",
-        "progress":"20%",
-        "ECTS":"30"
+        "name": "1. Semester | Completed",
+        "progress": "20%",
+        "ECTS": "30"
       },
       {
-        "name":"2. Semester | Completed",
-        "progress":"40%",
-        "ECTS":"60"
+        "name": "2. Semester | Completed",
+        "progress": "40%",
+        "ECTS": "60"
       },
       {
-        "name":"3. Semester | Completed",
-        "progress":"60%",
-        "ECTS":"80"
+        "name": "3. Semester | Completed",
+        "progress": "60%",
+        "ECTS": "80"
       },
       {
-        "name":"4. Semester | Completed",
-        "progress":"80%",
-        "ECTS":"120"
+        "name": "4. Semester | Completed",
+        "progress": "80%",
+        "ECTS": "120"
       },
       {
-        "name":"5. Semester | Completed",
-        "progress":"100%",
-        "ECTS":"150"
+        "name": "5. Semester | Completed",
+        "progress": "100%",
+        "ECTS": "150"
       }
     ],
-    "Topics":[
+    "Topics": [
       {
-        "name":"Languages",
-        "semester":"Semester",
-        "first":"1",
-        "second":"2",
-        "third":"3",
-        "ECTS":"17",
-        "ECTS2":"11",
-        "ECTS3":"15",
-        "progress1":"100%",
-        "progress2":"18.66%",
-        "progress3":"28%",
-        "sub1":"• Java",
-        "sub2":"• JavaScript",
-        "sub3":"• HTML",
-        "sub4":"• TypeScript",
-        "sub5":"• CSS",
-        "sub6":"• Kotlin",
-        "sub7":"• Swift"
+        "name": "Languages",
+        "semester": "Semester",
+        "first": "1",
+        "second": "2",
+        "third": "3",
+        "ECTS": "17",
+        "ECTS2": "11",
+        "ECTS3": "15",
+        "progress1": "100%",
+        "progress2": "18.66%",
+        "progress3": "28%",
+        "sub1": "• Java",
+        "sub2": "• JavaScript",
+        "sub3": "• HTML",
+        "sub4": "• TypeScript",
+        "sub5": "• CSS",
+        "sub6": "• Kotlin",
+        "sub7": "• Swift"
       },
       {
-        "name":"frameworks",
-        "semester":"Semester",
-        "first":"1",
-        "second":"2",
-        "third":"3",
-        "ECTS":"17",
-        "ECTS2":"11",
-        "ECTS3":"15",
-        "progress1":"100%",
-        "progress2":"18.66%",
-        "progress3":"28%",
-        "sub1":"• React.js",
-        "sub2":"• JQuery",
-        "sub3":"• Flask",
-        "sub4":"• Angular",
-        "sub5":"• Django"
+        "name": "frameworks",
+        "semester": "Semester",
+        "first": "1",
+        "second": "2",
+        "third": "3",
+        "ECTS": "17",
+        "ECTS2": "11",
+        "ECTS3": "15",
+        "progress1": "100%",
+        "progress2": "18.66%",
+        "progress3": "28%",
+        "sub1": "• React.js",
+        "sub2": "• JQuery",
+        "sub3": "• Flask",
+        "sub4": "• Angular",
+        "sub5": "• Django"
       },
       {
-        "name":"Database",
-        "semester":"Semester",
-        "first":"1",
-        "second":"2",
-        "third":"3",
-        "ECTS":"17",
-        "ECTS2":"11",
-        "ECTS3":"15",
-        "progress1":"100%",
-        "progress2":"18.66%",
-        "progress3":"28%",
-        "sub1":"• MySQL",
-        "sub2":"• PostgreSQL",
-        "sub3":"• SQLite",
-        "sub4":"• MongoDB",
-        "sub5":"• Google Firebase"
+        "name": "Database",
+        "semester": "Semester",
+        "first": "1",
+        "second": "2",
+        "third": "3",
+        "ECTS": "17",
+        "ECTS2": "11",
+        "ECTS3": "15",
+        "progress1": "100%",
+        "progress2": "18.66%",
+        "progress3": "28%",
+        "sub1": "• MySQL",
+        "sub2": "• PostgreSQL",
+        "sub3": "• SQLite",
+        "sub4": "• MongoDB",
+        "sub5": "• Google Firebase"
       },
       {
-        "name":"Design",
-        "semester":"Semester",
-        "first":"1",
-        "second":"2",
-        "third":"3",
-        "ECTS":"17",
-        "ECTS2":"11",
-        "ECTS3":"15",
-        "progress1":"100%",
-        "progress2":"18.66%",
-        "progress3":"28%",
-        "sub1":"• Sketch",
-        "sub2":"• Adobe Illustrator",
-        "sub3":"• Proto.io",
-        "sub4":"• Adobe Experience Design (XD)"
+        "name": "Design",
+        "semester": "Semester",
+        "first": "1",
+        "second": "2",
+        "third": "3",
+        "ECTS": "17",
+        "ECTS2": "11",
+        "ECTS3": "15",
+        "progress1": "100%",
+        "progress2": "18.66%",
+        "progress3": "28%",
+        "sub1": "• Sketch",
+        "sub2": "• Adobe Illustrator",
+        "sub3": "• Proto.io",
+        "sub4": "• Adobe Experience Design (XD)"
       },
       {
-        "name":"Programming",
-        "semester":"Semester",
-        "first":"1",
-        "second":"2",
-        "third":"3",
-        "ECTS":"17",
-        "ECTS2":"11",
-        "ECTS3":"15",
-        "progress1":"87%",
-        "progress2":"18.66%",
-        "progress3":"28%",
-        "sub1":"• Fundamental programming",
-        "sub2":"• Object oriented principals",
-        "sub3":"• Program quality",
-        "sub4":"• Webprogramming and advanced object oriented programming with database",
-        "sub5":"• Distributed programming",
-        "sub6":"• software architecture",
-        "sub7":"• programming languages"
+        "name": "Programming",
+        "semester": "Semester",
+        "first": "1",
+        "second": "2",
+        "third": "3",
+        "ECTS": "17",
+        "ECTS2": "11",
+        "ECTS3": "15",
+        "progress1": "87%",
+        "progress2": "18.66%",
+        "progress3": "28%",
+        "sub1": "• Fundamental programming",
+        "sub2": "• Object oriented principals",
+        "sub3": "• Program quality",
+        "sub4": "• Webprogramming and advanced object oriented programming with database",
+        "sub5": "• Distributed programming",
+        "sub6": "• software architecture",
+        "sub7": "• programming languages"
       },
       {
-        "name":"System Development",
-        "semester":"Semester",
-        "first":"1",
-        "second":"2",
-        "third":"3",
-        "ECTS":"7",
-        "ECTS2":"8",
-        "ECTS3":"7",
-        "progress1":"74%",
-        "progress2":"10%",
-        "progress3":"13.33%",
-        "sub1":"• Requirements, Analyzation, Design",
-        "sub2":"• Modelling in UML",
-        "sub3":"• IT tools",
-        "sub4":"• Method",
-        "sub5":"• Project development",
-        "sub6":"• Modelling",
-        "sub7":"• Quality",
-        "sub8":"• Project development",
-        "sub9":"• Modelling"
+        "name": "System Development",
+        "semester": "Semester",
+        "first": "1",
+        "second": "2",
+        "third": "3",
+        "ECTS": "7",
+        "ECTS2": "8",
+        "ECTS3": "7",
+        "progress1": "74%",
+        "progress2": "10%",
+        "progress3": "13.33%",
+        "sub1": "• Requirements, Analyzation, Design",
+        "sub2": "• Modelling in UML",
+        "sub3": "• IT tools",
+        "sub4": "• Method",
+        "sub5": "• Project development",
+        "sub6": "• Modelling",
+        "sub7": "• Quality",
+        "sub8": "• Project development",
+        "sub9": "• Modelling"
       },
       {
-        "name":"Techonolgy",
-        "semester":"Semester",
-        "first":"1",
-        "second":"2",
-        "third":"3",
-        "ECTS":"2",
-        "ECTS2":"3",
-        "ECTS3":"10",
-        "progress1":"71%",
-        "progress2":"3.33%",
-        "progress3":"10%",
-        "sub1":"• Machine architecture",
-        "sub2":"• Operating systems",
-        "sub3":"• Database",
-        "sub4":"• Distributed systems",
-        "sub5":"• Network"
+        "name": "Techonolgy",
+        "semester": "Semester",
+        "first": "1",
+        "second": "2",
+        "third": "3",
+        "ECTS": "2",
+        "ECTS2": "3",
+        "ECTS3": "10",
+        "progress1": "71%",
+        "progress2": "3.33%",
+        "progress3": "10%",
+        "sub1": "• Machine architecture",
+        "sub2": "• Operating systems",
+        "sub3": "• Database",
+        "sub4": "• Distributed systems",
+        "sub5": "• Network"
       },
       {
-        "name":"Corporation",
-        "semester":"Semester",
-        "first":"1",
-        "second":"2",
-        "third":"N/A",
-        "ECTS":"4",
-        "ECTS2":"6",
-        "ECTS3":"N/A",
-        "progress1":"60%",
-        "progress2":"6.66%",
-        "progress3":"6.66%",
-        "sub1":"• Organisation and business understanding",
-        "sub2":"• IT- and business concepts",
-        "sub3":"• Business Analyzation",
-        "sub4":"• ERP systems",
-        "sub5":"• IT-acquisition"
+        "name": "Corporation",
+        "semester": "Semester",
+        "first": "1",
+        "second": "2",
+        "third": "N/A",
+        "ECTS": "4",
+        "ECTS2": "6",
+        "ECTS3": "N/A",
+        "progress1": "60%",
+        "progress2": "6.66%",
+        "progress3": "6.66%",
+        "sub1": "• Organisation and business understanding",
+        "sub2": "• IT- and business concepts",
+        "sub3": "• Business Analyzation",
+        "sub4": "• ERP systems",
+        "sub5": "• IT-acquisition"
       },
       {
-        "name":"Fullstack Javascript",
-        "semester":"Semester",
-        "first":"1",
-        "second":"2",
-        "third":"N/A",
-        "ECTS":"4",
-        "ECTS2":"6",
-        "ECTS3":"N/A",
-        "progress1":"90%",
-        "progress2":"6.66%",
-        "progress3":"6.66%",
-        "sub1":"• Node.js",
-        "sub2":"• TypeScript",
-        "sub3":"• NoSQL",
-        "sub4":"• API",
-        "sub5":"• React",
-        "sub6":"• React-Native",
-        "sub7":"• Expo"
+        "name": "Fullstack Javascript",
+        "semester": "Semester",
+        "first": "1",
+        "second": "2",
+        "third": "N/A",
+        "ECTS": "4",
+        "ECTS2": "6",
+        "ECTS3": "N/A",
+        "progress1": "90%",
+        "progress2": "6.66%",
+        "progress3": "6.66%",
+        "sub1": "• Node.js",
+        "sub2": "• TypeScript",
+        "sub3": "• NoSQL",
+        "sub4": "• API",
+        "sub5": "• React",
+        "sub6": "• React-Native",
+        "sub7": "• Expo"
       },
       {
-        "name":"Python",
-        "semester":"Semester",
-        "first":"1",
-        "second":"2",
-        "third":"N/A",
-        "ECTS":"4",
-        "ECTS2":"6",
-        "ECTS3":"N/A",
-        "progress1":"88%",
-        "progress2":"6.66%",
-        "progress3":"6.66%",
-        "sub1":"• Graphs & PageRank Algorithm" ,
-        "sub2":"• Multiprocessing",
-        "sub3":"• Webscraping",
-        "sub4":"• Database",
-        "sub5":"• Web Service",
-        "sub6":"• Neural Networks",
-        "sub7":"• Image Processing with OpenCV",
-        "sub8":"• Movement Detection"
+        "name": "Python",
+        "semester": "Semester",
+        "first": "1",
+        "second": "2",
+        "third": "N/A",
+        "ECTS": "4",
+        "ECTS2": "6",
+        "ECTS3": "N/A",
+        "progress1": "88%",
+        "progress2": "6.66%",
+        "progress3": "6.66%",
+        "sub1": "• Graphs & PageRank Algorithm",
+        "sub2": "• Multiprocessing",
+        "sub3": "• Webscraping",
+        "sub4": "• Database",
+        "sub5": "• Web Service",
+        "sub6": "• Neural Networks",
+        "sub7": "• Image Processing with OpenCV",
+        "sub8": "• Movement Detection"
       },
       {
-        "name":"Security",
-        "semester":"Semester",
-        "first":"1",
-        "second":"2",
-        "third":"N/A",
-        "ECTS":"4",
-        "ECTS2":"6",
-        "ECTS3":"N/A",
-        "progress1":"65%",
-        "progress2":"6.66%",
-        "progress3":"6.66%",
-        "sub1":"• Cross-site-Scripting",
-        "sub2":"• GDPR",
-        "sub3":"• Penetration Testing",
-        "sub4":"• Network protocols and security",
-        "sub5":"• SSH | SSL | Certificates",
-        "sub6":"• Social Engineering ",
-        "sub7":"• Denial-of-service attack",
-        "sub8":"• SQL injection | Cross-site-Scripting",
-        "sub9":"• Hashes, Symmetric and asymmetric encryption, Digital Signatures and Certificates"
-      }
-    ]
-    
-  },
-  "portfolio":{
-    "projects": [
-      {
-        "title":"Slagterfagets Fællesudvalg",
-        "category":"Wordpress website",
-        "image":"Slagterfaget.png",
-        "url":"https://web.slagterfaget.dk/"
-      },
-      {
-        "title":"Jungle Orange Mix",
-        "category":"Mobile App",
-        "image":"Smashed.png",
-        "url":"https://smasheddrinkinggame.com/"
-      },
-      {
-        "title":"Coming Soon - KAB Management",
-        "category":"Mobile App",
-        "image":"soon.jpg",
-        "url":""
-      },
-      {
-        "title":"Coming Soon - WeBuddy",
-        "category":"Mobile App",
-        "image":"WeBuddy.png",
-        "url":""
-      },
-      {
-        "title":"Coming Soon - Netflix Movie Picker",
-        "category":"Mobile App",
-        "image":"netflix.jpg",
-        "url":""
+        "name": "Security",
+        "semester": "Semester",
+        "first": "1",
+        "second": "2",
+        "third": "N/A",
+        "ECTS": "4",
+        "ECTS2": "6",
+        "ECTS3": "N/A",
+        "progress1": "65%",
+        "progress2": "6.66%",
+        "progress3": "6.66%",
+        "sub1": "• Cross-site-Scripting",
+        "sub2": "• GDPR",
+        "sub3": "• Penetration Testing",
+        "sub4": "• Network protocols and security",
+        "sub5": "• SSH | SSL | Certificates",
+        "sub6": "• Social Engineering ",
+        "sub7": "• Denial-of-service attack",
+        "sub8": "• SQL injection | Cross-site-Scripting",
+        "sub9": "• Hashes, Symmetric and asymmetric encryption, Digital Signatures and Certificates"
       }
     ]
   },
-  "testimonials":{
-    "testimonials":[
+  "portfolio": {
+    "projects": [      
+      {
+        "title": "WeBuddy",
+        "category": "Mobile App",
+        "image": "WeBuddy.png",
+        "url": "https://www.webuddy.dk/"
+      },
+      {
+        "title": "Slagterfagets Fællesudvalg",
+        "category": "Wordpress website",
+        "image": "Slagterfaget.png",
+        "url": "https://web.slagterfaget.dk/"
+      },
+      {
+        "title": "Smashed - Drinking game",
+        "category": "Mobile App",
+        "image": "Smashed.png",
+        "url": "https://smasheddrinkinggame.com/"
+      },
+      {
+        "title": "Quizina - quiz app",
+        "category": "Mobile App",
+        "image": "Quizina.png",
+        "url": "https://quizina.flycricket.io/?t=1615848867"
+      },
+      {
+        "title": "Coming Soon - KAB Management",
+        "category": "Mobile App",
+        "image": "soon.jpg",
+        "url": ""
+      },
 
+      {
+        "title": "Coming Soon - Netflix Movie Picker",
+        "category": "Mobile App",
+        "image": "soon.jpg",
+        "url": ""
+      }
     ]
+  },
+  "testimonials": {
+    "testimonials": []
   }
 }
